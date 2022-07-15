@@ -8,6 +8,7 @@ from typing import Dict, List
 
 import nuke
 
+# Replace this with your PyCharm installation
 PYCHARM = (
     r"C:\Program Files\JetBrains\PyCharm Community Edition 2021.3.1\bin\pycharm64.exe"
 )
