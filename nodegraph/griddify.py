@@ -51,7 +51,6 @@ def run():
     run.touched = []
     selected_nodes = nuke.selectedNodes()
     if not selected_nodes:
-        pass
         return
     undo = nuke.Undo()
     undo.begin('Griddify')
